@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "biomejs.biome",
+    "ms-vscode.vscode-typescript-next",
+    "aaron-bond.better-comments",
+    "usernamehw.errorle",
+    "aykutsarac.jsoncrack-vscode",
+    "ermermaidchart.vscode-mermaid-chart",
+    "yoavbls.pretty-ts-errors",
+    "gruntfuggly.todo-tree",
+    "pflannery.vscode-versionlens",
+    "bierner.markdown-preview-github-styles",
+    "streetsidesoftware.code-spell-checker",
+    "christian-kohler.path-intellisense",
+    "erstreetsidesoftware.code-spell-checker-spanish"
+  ],
+  "unwantedRecommendations": ["esbenp.prettier-vscode", "dbaeumer.vscode-eslint"]
+}
