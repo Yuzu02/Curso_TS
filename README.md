@@ -12,6 +12,7 @@
 - [⚙️ Configuración del Entorno](#️-configuración-del-entorno)
 - [🛠️ Herramientas Utilizadas](#️-herramientas-utilizadas)
 - [📁 Estructura del Proyecto](#-estructura-del-proyecto)
+- [🎯 Sistema de Ejercicios](#-sistema-de-ejercicios)
 - [🚀 Cómo Empezar](#-cómo-empezar)
 - [📝 Notas Importantes](#-notas-importantes)
 - [🤝 Contribuciones](#-contribuciones)
@@ -36,7 +37,7 @@ Este curso de **TypeScript** está diseñado para llevarte desde los fundamentos
 
 ### 📖 [Módulo 1: Fundamentos y Configuración del Entorno](./class/Modules/Introduccion/README.md)
 
-> **Duración:** 8 horas | **Estado:** ✅ Completado
+> **Duración:** 8 horas | **Estado:** 🔄 En Progreso
 
 **Temas principales:**
 
@@ -44,8 +45,27 @@ Este curso de **TypeScript** está diseñado para llevarte desde los fundamentos
 - ⚙️ [1.2 Configuración del Entorno de Desarrollo](./class/Modules/Introduccion/02-configuracion-entorno.md)
   - 🔧 [1.2.1 Instalación y Setup Inicial](./class/Modules/Introduccion/02-1-instalacion-setup.md)
   - 🛠️ [1.2.2 Herramientas de Desarrollo](./class/Modules/Introduccion/02-2-herramientas-desarrollo.md)
-  - � [1.2.3 Configuración de TypeScript](./class/Modules/Introduccion/02-3-configuracion-typescript.md)
+  - 🔧 [1.2.3 Configuración de TypeScript](./class/Modules/Introduccion/02-3-configuracion-typescript.md)
 - 🚀 [1.3 Primeros Pasos](./class/Modules/Introduccion/03-primeros-pasos.md)
+
+**📋 Ejercicios:** [Ver ejercicios del módulo](./class/Exercises/Cases/01-introduccion/) | [Ver soluciones](./class/Exercises/Solutions/01-introduccion/)
+
+### 🔧 [Módulo 2: Tipos Básicos y Fundamentales](./class/Modules/Tipos/README.md)
+
+> **Duración:** 12 horas | **Estado:** 🔄 En Progreso
+
+**Temas principales:**
+
+- 🔧 [2.1 Sistema de Tipos de TypeScript](./class/Modules/Tipos/01-sistema-tipos.md)
+  - 🎯 [2.1.1 Tipos Primitivos](./class/Modules/Tipos/01-1-tipos-primitivos.md)
+  - 🔧 [2.1.2 Tipos Compuestos Básicos](./class/Modules/Tipos/01-2-tipos-compuestos.md)
+- 🧠 [2.2 Inferencia de Tipos](./class/Modules/Tipos/02-inferencia-tipos.md)
+- 📝 [2.3 Literales y Enums](./class/Modules/Tipos/03-literales-enums.md)
+  - 🎨 [2.3.1 Literal Types](./class/Modules/Tipos/03-1-literal-types.md)
+  - 🔢 [2.3.2 Enums](./class/Modules/Tipos/03-2-enums.md)
+- 🎯 [2.4 Type Assertions y Narrowing](./class/Modules/Tipos/04-assertions-narrowing.md)
+
+**📋 Ejercicios:** [Ver ejercicios del módulo](./class/Exercises/Cases/02-tipos-basicos/) | [Ver soluciones](./class/Exercises/Solutions/02-tipos-basicos/)
 
 ---
 
@@ -97,24 +117,67 @@ Curso_TS/
 ├── 📄 bun.lock                 # Lock file de dependencias
 ├── 📁 src/                     # Código fuente
 │   └─ 📄index.ts             # Archivo principal
-└── 📁 class/                   # Contenido del curso
-    └── 📁 Modules/             # Módulos del curso
-        └── 📁 Introduccion/    # Módulo 1: Introducción
-            ├── 📄 README.md    # Docs del módulo
-            ├── 📄 01-introduccion-typescript.md
-            ├── 📄 02-configuracion-entorno.md
-            ├── 📄 02-1-instalacion-setup.md
-            ├── 📄 02-2-herramientas-desarrollo.md
-            ├── 📄 02-3-configuracion-typescript.md
-            └── 📄 03-primeros-pasos.md
+├── 📁 class/                   # Contenido del curso
+│   ├── 📁 Modules/             # Módulos del curso
+│   │   ├── 📁 Introduccion/    # Módulo 1: Introducción
+│   │   │   └── 📄 README.md    # Docs del módulo
+│   │   └── 📁 Tipos/           # Módulo 2: Tipos Básicos
+│   │       └── 📄 README.md    # Docs del módulo
+│   └── 📁 Exercises/           # Sistema de ejercicios
+│       ├── 📄 README.md        # Guía de ejercicios
+│       ├── 📁 Cases/           # Casos de ejercicios
+│       │   ├── 📄 README.md    # Índice de casos
+│       │   ├── 📁 01-introduccion/  # Ejercicios Módulo 1
+│       │   │   └── 📄 README.md     # Índice del módulo
+│       │   └── 📁 02-tipos-basicos/  # Ejercicios Módulo 2
+│       │       └── 📄 README.md      # Índice del módulo
+│       └── 📁 Solutions/       # Soluciones
+│           ├── 📄 README.md    # Índice de soluciones
+│           ├── 📁 01-introduccion/
+│           │   ├── 📁 Yuzu/    # Soluciones del instructor
+│           │   └── 📁 contributors/  # Soluciones de la comunidad
+│           └── 📁 02-tipos-basicos/
+│               ├── 📁 Yuzu/
+│               └── 📁 contributors/
 ```
+
+## 🎯 Sistema de Ejercicios
+
+Este curso incluye un **sistema completo de ejercicios prácticos** diseñado para reforzar cada concepto aprendido:
+
+### 📋 Características del Sistema
+
+- ✅ **Ejercicios por módulo** organizados por dificultad
+- ✅ **Casos de estudio** con problemas reales
+- ✅ **Soluciones múltiples** del instructor y la comunidad
+- ✅ **Sistema de contribución** via Pull Requests
+- ✅ **Criterios de evaluación** claros para cada ejercicio
+
+### 🎯 Cómo Funciona
+
+1. **Estudia el material** de cada módulo
+2. **Resuelve los ejercicios** en [`class/Exercises/Cases/`](./class/Exercises/Cases/)
+3. **Compara tu solución** con las de [`class/Exercises/Solutions/`](./class/Exercises/Solutions/)
+4. **Contribuye** con tu propia solución via PR
+5. **Aprende** de los diferentes enfoques de la comunidad
+
+### 📚 Ejercicios Disponibles
+
+| Módulo | Ejercicios | Dificultad | Tiempo Est. |
+|--------|------------|------------|-------------|
+| [Introducción](./class/Exercises/Cases/01-introduccion/) | 4 | 🟢 Principiante | 2.5h |
+| [Tipos Básicos](./class/Exercises/Cases/02-tipos-basicos/) | 29 | 🟢 Principiante| 8-10h |
+
+**[🎯 Ir al Sistema de Ejercicios](./class/Exercises/README.md)**
+
+---
 
 ## 🚀 Cómo Empezar
 
 1. **Ejecutar el proyecto**
 
    ```bash
-   bun run src/index.ts
+   bun run watch
    ```
 
 2. **Linting y formatting**

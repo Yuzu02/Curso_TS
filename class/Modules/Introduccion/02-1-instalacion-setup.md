@@ -93,7 +93,7 @@ rm test.js
 
 **Salida esperada:**
 
-```
+```plaintext
 1.2.17
 ¡Bun funcionando!
 ```
