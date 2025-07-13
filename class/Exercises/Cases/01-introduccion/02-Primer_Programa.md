@@ -124,7 +124,7 @@ Al completar este ejercicio, deberás haber:
 
 ## 🧪 Verificación
 
-### Ejecuta cada programa:
+### Ejecuta cada programa
 
 1. **Ejecuta todos los archivos:**
 
@@ -155,6 +155,7 @@ Al completar este ejercicio, deberás haber:
 ### Nivel 1: Función de Estadísticas
 
 Crea `src/estadisticas.ts` con una función que calcule:
+
 - Valor máximo
 - Valor mínimo
 - Mediana
@@ -163,6 +164,7 @@ Crea `src/estadisticas.ts` con una función que calcule:
 ### Nivel 2: Sistema de Tareas
 
 Crea `src/tareas.ts` con:
+
 - Array de tareas con propiedades (id, título, completada)
 - Funciones para agregar, completar y listar tareas
 - Función para mostrar estadísticas

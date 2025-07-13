@@ -18,5 +18,6 @@
   "[jsonc]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
-  "biome.enabled": true
+  "biome.enabled": true,
+  "cSpell.words": ["multiplicacion", "numeros", "operacion", "tipadas", "tipados"]
 }

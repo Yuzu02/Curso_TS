@@ -13,6 +13,14 @@
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
     "noEmit": true,
+    "baseUrl": "./src",
+
+    "paths": {
+      // Aliases para importaciones
+      "@/*": ["*"],
+      "@/types/*": ["types/*"],
+      "@/utils/*": ["utils/*"]
+    },
 
     // Best practices
     "strict": true,

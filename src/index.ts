@@ -1,8 +1,4 @@
-type User = {
-  id: number;
-  name: string;
-  email: string;
-};
+import type { User } from "@/types/user";
 
 const user1: User = {
   id: 1,
