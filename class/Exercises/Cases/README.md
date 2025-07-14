@@ -104,13 +104,60 @@
 
 ---
 
+### 📖 [Módulo 3: Funciones](./03-funciones/)
+
+**Temas:** Tipado de funciones, overloads, funciones de orden superior, métodos y this
+
+#### 📊 Resumen - Módulo 3
+
+- **📈 Total de ejercicios:** 15 ejercicios especializados
+- **⏱️ Tiempo estimado:** 5 horas
+- **🎯 Conceptos cubiertos:** Function overloads, callbacks, async/await, this binding
+- **🏗️ Enfoque:** Funciones avanzadas y patrones de programación funcional
+
+#### 📋 Lista de Ejercicios
+
+##### 1. Tipado de Funciones (6 ejercicios)
+
+- 🎯 **1.1:** [Calculadora Tipada](./03-funciones/01-Tipado_Funciones/01-Calculadora_Tipada.md)
+- 🎯 **1.2:** [Validador de Formularios](./03-funciones/01-Tipado_Funciones/02-Validador_Formularios.md)
+- 🎯 **1.3:** [Parser de Comandos](./03-funciones/01-Tipado_Funciones/03-Parser_Comandos.md)
+- 🎯 **1.4:** [Factory Functions](./03-funciones/01-Tipado_Funciones/04-Factory_Functions.md)
+- 🎯 **1.5:** [Sistema de Plugins](./03-funciones/01-Tipado_Funciones/05-Sistema_Plugins.md)
+- 🎯 **1.6:** [Logger Avanzado](./03-funciones/01-Tipado_Funciones/06-Logger_Avanzado.md)
+
+##### 2. Funciones de Orden Superior (5 ejercicios)
+
+- 🎯 **2.1:** [Event System](./03-funciones/02-Funciones_Orden_Superior/01-Event_System.md)
+- 🎯 **2.2:** [API Client](./03-funciones/02-Funciones_Orden_Superior/02-API_Client.md)
+- 🎯 **2.3:** [Utility Library](./03-funciones/02-Funciones_Orden_Superior/03-Utility_Library.md)
+- 🎯 **2.4:** [State Manager](./03-funciones/02-Funciones_Orden_Superior/04-State_Manager.md)
+- 🎯 **2.5:** [Pipeline Functions](./03-funciones/02-Funciones_Orden_Superior/05-Pipeline_Functions.md)
+
+##### 3. Métodos y This (4 ejercicios)
+
+- 🎯 **3.1:** [Component System](./03-funciones/03-Metodos_This/01-Component_System.md)
+- 🎯 **3.2:** [Query Builder](./03-funciones/03-Metodos_This/02-Query_Builder.md)
+- 🎯 **3.3:** [Observable Pattern](./03-funciones/03-Metodos_This/03-Observable_Pattern.md)
+- 🎯 **3.4:** [Decorator System](./03-funciones/03-Metodos_This/04-Decorator_System.md)
+
+#### 📊 Distribución por Dificultad
+
+- 🟢 **Principiante:** 3 ejercicios (20%) - Fundamentos de funciones
+- 🟡 **Intermedio:** 8 ejercicios (53%) - Patrones avanzados
+- 🔴 **Avanzado:** 4 ejercicios (27%) - Sistemas complejos
+
+**Dificultad:** 🟡🔴 Intermedio-Avanzado | **Tiempo estimado:** 5 horas
+
+---
+
 ## 📊 Estadísticas Generales
 
 ### 📈 Resumen Global
 
-- **🎯 Total de ejercicios:** 33 ejercicios
-- **📚 Módulos disponibles:** 2 módulos
-- **⏱️ Tiempo total estimado:** 24.5-27.5 horas
+- **🎯 Total de ejercicios:** 48 ejercicios
+- **📚 Módulos disponibles:** 3 módulos
+- **⏱️ Tiempo total estimado:** 29.5-32.5 horas
 - **🎓 Niveles de dificultad:** 3 niveles (Principiante, Intermedio, Avanzado)
 
 ### 📊 Distribución por Módulo
@@ -118,6 +165,8 @@
 | Módulo | Ejercicios | Tiempo | Dificultad | Enfoque |
 |--------|------------|--------|-------------|---------|
 | **1. Introducción** | 4 | 2.5h | 🟢 Principiante | Fundamentos y setup |
+| **2. Tipos Básicos** | 29 | 22-25h | 🟡 Intermedio | Sistema de tipos |
+| **3. Funciones** | 15 | 5h | 🟡🔴 Avanzado | Funciones y patrones |
 | **2. Tipos Básicos** | 29 | 22-25h | 🟡 Principiante-Intermedio | Sistema de tipos completo |
 
 ### 📊 Distribución Global por Dificultad

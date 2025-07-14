@@ -67,6 +67,20 @@ Este curso de **TypeScript** está diseñado para llevarte desde los fundamentos
 
 **📋 Ejercicios:** [Ver ejercicios del módulo](./class/Exercises/Cases/02-tipos-basicos/) | [Ver soluciones](./class/Exercises/Solutions/02-tipos-basicos/)
 
+### ⚡ [Módulo 3: Funciones](./class/Modules/Funciones/README.md)
+
+> **Duración:** 5 horas | **Estado:** ✅ Completado
+
+**Temas principales:**
+
+- 🔧 [3.1 Tipado de Funciones](./class/Modules/Funciones/01-tipado-funciones.md)
+  - 📝 [3.1.1 Declaración y Expresiones](./class/Modules/Funciones/01-1-declaracion-expresiones.md)
+  - 🔄 [3.1.2 Overloads y Signatures](./class/Modules/Funciones/01-2-overloads-signatures.md)
+- 🚀 [3.2 Funciones de Orden Superior](./class/Modules/Funciones/02-funciones-orden-superior.md)
+- 🎯 [3.3 Métodos y This](./class/Modules/Funciones/03-metodos-this.md)
+
+**📋 Ejercicios:** [Ver ejercicios del módulo](./class/Exercises/Cases/03-funciones/) | [Ver soluciones](./class/Exercises/Solutions/03-funciones/)
+
 ---
 
 ## ⚙️ Configuración del Entorno
@@ -121,7 +135,9 @@ Curso_TS/
 │   ├── 📁 Modules/             # Módulos del curso
 │   │   ├── 📁 Introduccion/    # Módulo 1: Introducción
 │   │   │   └── 📄 README.md    # Docs del módulo
-│   │   └── 📁 Tipos/           # Módulo 2: Tipos Básicos
+│   │   ├── 📁 Tipos/           # Módulo 2: Tipos Básicos
+│   │   │   └── 📄 README.md    # Docs del módulo
+│   │   └── 📁 Funciones/       # Módulo 3: Funciones
 │   │       └── 📄 README.md    # Docs del módulo
 │   └── 📁 Exercises/           # Sistema de ejercicios
 │       ├── 📄 README.md        # Guía de ejercicios
@@ -129,14 +145,19 @@ Curso_TS/
 │       │   ├── 📄 README.md    # Índice de casos
 │       │   ├── 📁 01-introduccion/  # Ejercicios Módulo 1
 │       │   │   └── 📄 README.md     # Índice del módulo
-│       │   └── 📁 02-tipos-basicos/  # Ejercicios Módulo 2
+│       │   ├── 📁 02-tipos-basicos/  # Ejercicios Módulo 2
+│       │   │   └── 📄 README.md      # Índice del módulo
+│       │   └── 📁 03-funciones/      # Ejercicios Módulo 3
 │       │       └── 📄 README.md      # Índice del módulo
 │       └── 📁 Solutions/       # Soluciones
 │           ├── 📄 README.md    # Índice de soluciones
 │           ├── 📁 01-introduccion/
 │           │   ├── 📁 Yuzu/    # Soluciones del instructor
 │           │   └── 📁 contributors/  # Soluciones de la comunidad
-│           └── 📁 02-tipos-basicos/
+│           ├── 📁 02-tipos-basicos/
+│           │   ├── 📁 Yuzu/
+│           │   └── 📁 contributors/
+│           └── 📁 03-funciones/
 │               ├── 📁 Yuzu/
 │               └── 📁 contributors/
 ```
@@ -166,7 +187,8 @@ Este curso incluye un **sistema completo de ejercicios prácticos** diseñado pa
 | Módulo | Ejercicios | Dificultad | Tiempo Est. |
 |--------|------------|------------|-------------|
 | [Introducción](./class/Exercises/Cases/01-introduccion/) | 4 | 🟢 Principiante | 2.5h |
-| [Tipos Básicos](./class/Exercises/Cases/02-tipos-basicos/) | 29 | 🟢 Principiante| 8-10h |
+| [Tipos Básicos](./class/Exercises/Cases/02-tipos-basicos/) | 29 | 🟡 Intermedio | 22-25h |
+| [Funciones](./class/Exercises/Cases/03-funciones/) | 15 | 🟡 Intermedio | 5h |
 
 **[🎯 Ir al Sistema de Ejercicios](./class/Exercises/README.md)**
 

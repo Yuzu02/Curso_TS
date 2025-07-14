@@ -19,5 +19,15 @@
     "editor.defaultFormatter": "biomejs.biome"
   },
   "biome.enabled": true,
-  "cSpell.words": ["multiplicacion", "numeros", "operacion", "tipadas", "tipados"]
+  "cSpell.words": [
+    "descripcion",
+    "estadisticas",
+    "Funcion",
+    "keyof",
+    "multiplicacion",
+    "numeros",
+    "operacion",
+    "tipadas",
+    "tipados"
+  ]
 }

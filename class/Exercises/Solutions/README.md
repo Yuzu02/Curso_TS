@@ -16,7 +16,8 @@ Solutions/
 │       ├── 📁 ejemplo-1/
 │       ├── 📁 ejemplo-2/
 │       └── 📁 ejemplo-3/
-└── 📁 02-tipos-basicos/         # Soluciones Módulo 2
+├── 📁 02-tipos-basicos/         # Soluciones Módulo 2
+└── 📁 03-funciones/             # Soluciones Módulo 3
 ```
 
 ---
@@ -42,6 +43,17 @@ Solutions/
 - 👥 **Contributors** - Soluciones de la comunidad
 
 **Ejercicios cubiertos:** 29/29 | **Último actualizado:** 2025-07-06
+
+---
+
+### ⚡ [Módulo 3: Funciones](./03-funciones/)
+
+**Soluciones disponibles:**
+
+- 🔧 **Yuzu** - Solución del instructor
+- 👥 **Contributors** - Soluciones de la comunidad
+
+**Ejercicios cubiertos:** 15/15 | **Último actualizado:** 2025-07-13
 
 ---
 

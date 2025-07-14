@@ -52,12 +52,14 @@ Exercises/
 │   ├── 📄 README.md                # Índice completo de casos
 │   ├── 📁 01-introduccion/         # Ejercicios Módulo 1
 │   ├── 📁 02-tipos-basicos/        # Ejercicios Módulo 2
+│   ├── 📁 03-funciones/            # Ejercicios Módulo 3
 │   └── 📁 ...                      # Futuros módulos
 └── 📁 Solutions/                   # 🏆 Soluciones implementadas
     ├── 📄 README.md                # Guía de soluciones
     ├── 📄 Template.md              # Template para contribuidores
     ├── 📁 01-introduccion/         # Soluciones Módulo 1
     ├── 📁 02-tipos-basicos/        # Soluciones Módulo 2
+    ├── 📁 03-funciones/            # Soluciones Módulo 3
     └── 📁 ...                      # Futuros módulos
 ```
 
@@ -78,6 +80,13 @@ Exercises/
 - **🏆 Soluciones:** [02-tipos-basicos/](./Solutions/02-tipos-basicos/)
 - **📊 Estado:** ✅ Completo
 - **🔧 Temas:** Primitivos, compuestos, literales, enums, guards
+
+### ⚡ Módulo 3: Funciones
+
+- **📍 Casos:** [03-funciones/](./Cases/03-funciones/)
+- **🏆 Soluciones:** [03-funciones/](./Solutions/03-funciones/)
+- **📊 Estado:** ✅ Completo
+- **🔧 Temas:** Tipado de funciones, overloads, orden superior, this binding
 
 ---
 
