@@ -8,11 +8,14 @@
     "ermermaidchart.vscode-mermaid-chart",
     "yoavbls.pretty-ts-errors",
     "gruntfuggly.todo-tree",
-    "pflannery.vscode-versionlens",
+    "legalfina.npm-version-lens",
     "bierner.markdown-preview-github-styles",
     "streetsidesoftware.code-spell-checker",
     "christian-kohler.path-intellisense",
     "erstreetsidesoftware.code-spell-checker-spanish"
   ],
-  "unwantedRecommendations": ["esbenp.prettier-vscode", "dbaeumer.vscode-eslint"]
+  "unwantedRecommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
 }
